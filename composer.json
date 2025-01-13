@@ -19,8 +19,8 @@
     "php": ">=7.1",
     "jdorn/sql-formatter": "~1.2",
     "pomm-project/model-manager": "~2.0",
-    "pomm-project/cli": "~2.0",
-    "pomm-project/pomm-symfony-bridge": "~2.5|~3.0",
+    "pomm-project/cli": "dev-feat/add-sf6-support/no-ref",
+    "pomm-project/pomm-symfony-bridge": "dev-feat/add-sf6-support/no-ref",
     "symfony/framework-bundle": "^3.4|^4.3|^5.0|^6.0"
   },
   "require-dev": {
